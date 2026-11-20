@@ -8,8 +8,8 @@ Sistema de perguntas e respostas para exercícios e problemas técnicos. Estudan
 |---|---|
 | Autor | Guilherme Borges Szimzek |
 | RA | 2026109288 |
-| Projeto online | ATUALIZE: `https://duvidas-tecnicas.pages.dev` (URL final do Cloudflare Pages) |
-| Repositório | ATUALIZE: URL deste repositório no GitHub |
+| Projeto online |  `https://duvidas-tecnicas.pages.dev` |
+| Repositório | https://github.com/GuilhermeBorgesS/duvidas-tecnicas |
 | Licença | [MIT](LICENSE) |
 
 ## Stack
